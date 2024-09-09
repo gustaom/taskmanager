@@ -24,7 +24,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento local:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/taskmanager.git
+   git clone https://github.com/gustaom/taskmanager.git
    cd taskmanager
    ```
 
